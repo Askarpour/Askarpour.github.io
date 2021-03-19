@@ -1,3 +1,4 @@
+youtubeId: _gPZmo_2efA
 ---
 layout: archive
 title: "Tools"
@@ -17,5 +18,6 @@ author_profile: true
 <h3> Co-advised by me: </h3>
 
 * [COSIM-HRC](https://github.com/omertiryakiler/COSIM-HRC): Co-Simulation of Human-Robot Collaboration: from Temporal Logic to 3D Simulation.
+ {% include youtubePlayer.html id=page.youtubeId %}
 
 * [HRC-TEAM](https://github.com/Askarpour/SAFER-TEAM): A Model-driven Approach to Formal Verification and Deployment of Collaborative Robotic Applications.
