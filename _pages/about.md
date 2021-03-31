@@ -31,8 +31,10 @@ My research interests are formal verification, model-based safety analysis, and 
 * B.S. in Computer Science, University of Tehran, 2009
 
 <h3>Work experience</h3>
+* Software Safety Engineer (April 2021 - Ongoing)
+  * General Motors, Canada
 
-* PostDoc (April 2020 - Ongoing)
+* PostDoc (April 2020 - April 2021)
   * McMaster University, Hamilton, Canada
 
 * PostDoc (Feb 2018 - March 2020)
