@@ -7,7 +7,7 @@ author_profile: true
 
 <h3>Journals</h3>
 
-* "Formally-based Model-Driven Development of Collaborative Robotic Applications" (2021). In: Journal of Intelligent & Robotic Systems
+* "Formally-based Model-Driven Development of Collaborative Robotic Applications" (2021). In: Journal of Intelligent & Robotic Systems.
 * “Formal Model of Human Erroneous Behavior for Safety Analysis in Collaborative Robotics”(2019). In: Robotics and Computer-Integrated Manufacturing.
 * “Safety Assessment of Collaborative Robotics through Automated Formal Verification”(2019). In: IEEE Transactions on Robotics.
 
