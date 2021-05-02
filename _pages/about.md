@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
----
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-22E0C3YSYV"></script>
 <script>
