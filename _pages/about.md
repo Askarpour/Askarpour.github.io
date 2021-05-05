@@ -45,6 +45,11 @@ My research interests are formal verification, model-based safety analysis, and 
   * PriceWaterhouseCoopers, Milan, Italy
 
 
+<h3>Contact</h3>
+
+Email: askarpom  at  mcmaster  dot  ca
+
+
 --------
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-22E0C3YSYV"></script>
@@ -56,7 +61,3 @@ My research interests are formal verification, model-based safety analysis, and 
   gtag('config', 'G-22E0C3YSYV');
 </script>
 -----------
-
-<h3>Contact</h3>
-
-Email: askarpom  at  mcmaster  dot  ca
