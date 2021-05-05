@@ -6,6 +6,15 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-22E0C3YSYV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-22E0C3YSYV');
+</script>
 ---
 
 <h3>Welcome to my page!</h3>
