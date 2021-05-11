@@ -64,3 +64,6 @@ author_profile: true
 <h3>Program Committee</h3>
 
 * AREA2020 -->
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-22E0C3YSYV"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-22E0C3YSYV'); </script>
