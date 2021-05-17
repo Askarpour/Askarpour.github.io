@@ -19,9 +19,9 @@ author_profile: true
 * Formal Methods for concurrent and real-time systems, Spring 2020, TA, Instructor: [Prof. Pierluigi San Pietro](https://sanpietro.faculty.polimi.it/).
 * Formal Methods for concurrent and real-time systems, Spring 2019, TA, Instructor: [Prof. Pierluigi San Pietro](https://sanpietro.faculty.polimi.it/).
 * Software Methodologies and Architectures for Security, Spring 2019, TA, Instructor: [Prof. Marcello Bersani](https://sites.google.com/site/marcellombersani/).
-* Formal Methods for concurrent and real-time systems, Spring 2018, TA, Instructor: [Prof. Dino Mandrioli](http://home.deib.polimi.it/mandriol/SitoItaliano/sitowebpersit.html).
-* Formal Methods for concurrent and real-time systems, Spring 2017, TA, Instructor: [Prof. Dino Mandrioli](http://home.deib.polimi.it/mandriol/SitoItaliano/sitowebpersit.html).
-* Formal Methods for concurrent and real-time systems, Spring 2016, TA, Instructor: [Prof. Dino Mandrioli](http://home.deib.polimi.it/mandriol/SitoItaliano/sitowebpersit.html).
+* Formal Methods for concurrent and real-time systems, Spring 2018, TA, Instructor: [Prof. Dino Mandrioli](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ricerche/RicercaPerDocentiPublic.do?evn_didattica=EVENTO&&aa=2019&k_cf=-1&k_corso_la=-1&ac_ins=0&lang=EN&tipoCorso=ALL_TIPO_CORSO&semestre=ALL_SEMESTRI&tipoInsegnamento=ALL_TIPO_INSEGNAMENTO&sede=ALL_SEDI&n_docente=dino&k_doc=231476&tab_ricerca=2).
+* Formal Methods for concurrent and real-time systems, Spring 2017, TA, Instructor: [Prof. Dino Mandrioli](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ricerche/RicercaPerDocentiPublic.do?evn_didattica=EVENTO&&aa=2019&k_cf=-1&k_corso_la=-1&ac_ins=0&lang=EN&tipoCorso=ALL_TIPO_CORSO&semestre=ALL_SEMESTRI&tipoInsegnamento=ALL_TIPO_INSEGNAMENTO&sede=ALL_SEDI&n_docente=dino&k_doc=231476&tab_ricerca=2).
+* Formal Methods for concurrent and real-time systems, Spring 2016, TA, Instructor: [Prof. Dino Mandrioli](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ricerche/RicercaPerDocentiPublic.do?evn_didattica=EVENTO&&aa=2019&k_cf=-1&k_corso_la=-1&ac_ins=0&lang=EN&tipoCorso=ALL_TIPO_CORSO&semestre=ALL_SEMESTRI&tipoInsegnamento=ALL_TIPO_INSEGNAMENTO&sede=ALL_SEDI&n_docente=dino&k_doc=231476&tab_ricerca=2).
 
 <h3> External Courses</h3>
 
