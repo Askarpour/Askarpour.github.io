@@ -10,10 +10,9 @@ redirect_from:
 
 <h3>Welcome to my page!</h3>
 
-I am a Software Safety Engineer at Automated Driving & Active Safety - General Motors Canada since April 2021.
-I also hold an adjunct assistant professorship at McMaster University active from July 2021.
+I am a Software Safety Engineer at Automated Driving & Active Safety - General Motors Canada since April 2021, and an adjunct assistant professor at McMaster University from July 2021.
 
-I was a Postdoc at [Mcscert Research Team](https://www.mcscert.ca/mcscert-research-team/), Department of Computing and Software, McMaster university from April 2020 to April 2021 and worked on safety analysis of autonomous vehicles in a [joint project](https://www.eng.mcmaster.ca/news/mcmaster-engineering-researchers-awarded-funding-advance-software-safety-next-generation) with GM Canada.
+I was a Postdoc at [Mcscert Research Team](https://www.mcscert.ca/mcscert-research-team/), Department of Computing and Software, McMaster university from April 2020 to April 2021 and worked on safety analysis of autonomous vehicles in a [joint project](https://www.eng.mcmaster.ca/news/mcmaster-engineering-researchers-awarded-funding-advance-software-safety-next-generation) with General Motors.
 
 Previously, I worked as a Postdoc at [Deepse Group](https://www.deepse.deib.polimi.it/), Politecnico di Milano from Jan 2018 to March 2020, where I received my PhD (Nov 2014 - Jan 2018) under supervision of [Prof. Dino Mandrioli](https://www4.ceda.polimi.it/manifesti/manifesti/controller/ricerche/RicercaPerDocentiPublic.do?evn_didattica=EVENTO&&aa=2019&k_cf=-1&k_corso_la=-1&ac_ins=0&lang=EN&tipoCorso=ALL_TIPO_CORSO&semestre=ALL_SEMESTRI&tipoInsegnamento=ALL_TIPO_INSEGNAMENTO&sede=ALL_SEDI&n_docente=dino&k_doc=231476&tab_ricerca=2). I worked on a joint project with [STIIMA - CNR](https://www.stiima.cnr.it/en/) to provide software solutions for human safety in collaborative robotics. In particular, we employed model checking and temporal logic to model all the variations of task execution in collabortive robotic scenarios, and identify and mitigate hazardous traces that could endanger human operator.
 
@@ -34,6 +33,9 @@ My research interests are formal verification, model-based safety analysis, and 
 
 * Software Safety Engineer (April 2021 - Ongoing)
   * General Motors, Canada
+
+* Adjunct Assistant Professor (July 2021 - Ongoing)
+  * McMaster University, Hamilton, Canada
 
 * PostDoc (April 2020 - April 2021)
   * McMaster University, Hamilton, Canada
