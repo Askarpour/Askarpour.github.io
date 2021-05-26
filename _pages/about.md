@@ -31,11 +31,8 @@ My research interests are formal verification, model-based safety analysis, and 
 
 <h3>Work experience</h3>
 
-* Software Safety Engineer (April 2021 - Ongoing)
-  * General Motors, Canada
-
-* Adjunct Assistant Professor (July 2021 - Ongoing)
-  * McMaster University, Hamilton, Canada
+* Software Safety Engineer (April 2021 - Ongoing)         * Adjunct Assistant Professor (July 2021 - Ongoing)
+  * General Motors, Canada                                  * McMaster University, Hamilton, Canada
 
 * PostDoc (April 2020 - April 2021)
   * McMaster University, Hamilton, Canada
