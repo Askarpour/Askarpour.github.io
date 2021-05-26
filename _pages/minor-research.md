@@ -13,7 +13,7 @@ Find two of our recently published works below:
 
 * “Generalizing an Exactly-1 SAT Solver for Arbitrary Numbers of Variables, Clauses, and K” (2020). In: 1st Quantum Software Engineering and Technology Workshop (QSET). [More details](https://github.com/Megapiro/Quantum-Computing) and [presentation](https://www.youtube.com/watch?v=B1xtlKiuA0k).
 
-* "Experimental Implementation of Discrete Time Quantum Walk with the IBM Qiskit Library" (2021). In: Second International Workshop on Quantum Software Engineering (Q-SE). co-located with ICSE 2021. [More details](https://github.com/Askarpour/sw2_quantum_research/tree/master/Olivieri).
+* "Experimental Implementation of Discrete Time Quantum Walk with the IBM Qiskit Library" (2021). In: Second International Workshop on Quantum Software Engineering (Q-SE). Co-located with ICSE 2021. [More details](https://github.com/Askarpour/sw2_quantum_research/tree/master/Olivieri).
 
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-22E0C3YSYV"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-22E0C3YSYV'); </script>
