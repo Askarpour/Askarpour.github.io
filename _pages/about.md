@@ -10,7 +10,7 @@ redirect_from:
 
 <h3>Welcome to my page!</h3>
 
-I am a Software Safety Engineer at Automated Driving & Active Safety - General Motors Canada since April 2021 and an adjunct assistant professor at McMaster University from July 2021.
+I am a software safety engineer at Automated Driving & Active Safety - General Motors since April 2021 and an adjunct assistant professor at McMaster University from July 2021.
 
 I was a Postdoc at [Mcscert Research Team](https://www.mcscert.ca/mcscert-research-team/), Department of Computing and Software, McMaster university from April 2020 to April 2021 and worked on safety analysis of autonomous vehicles in a [joint project](https://www.eng.mcmaster.ca/news/mcmaster-engineering-researchers-awarded-funding-advance-software-safety-next-generation) with General Motors.
 
