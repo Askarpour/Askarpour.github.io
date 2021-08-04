@@ -7,7 +7,7 @@ author_profile: true
 
 
 <h3>Quantum Computing</h3>
-I recently developed an interest in quantum computing. I had the opportunity to co-advice a group of motivated students for a course by [Prof. Di Nitto](https://dinitto.faculty.polimi.it/) at Politecnico di Milano. They started to figure out efficient implementations for existing quantum circuits using the IBM Qiskit library.
+I had the opportunity to co-advice a group of motivated students for a course by [Prof. Di Nitto](https://dinitto.faculty.polimi.it/) at Politecnico di Milano. They started to figure out efficient implementations for existing quantum circuits using the IBM Qiskit library and perform state-of-the-art analysis of different subdomains of quantum computing area.
 
 Find two of our recently published works below:
 
